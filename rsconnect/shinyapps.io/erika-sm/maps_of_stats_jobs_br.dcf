@@ -1,0 +1,10 @@
+name: maps_of_stats_jobs_br
+title:
+username:
+account: erika-sm
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3345496
+bundleId: 3938475
+url: https://erika-sm.shinyapps.io/maps_of_stats_jobs_br/
+when: 1607007927.65311
